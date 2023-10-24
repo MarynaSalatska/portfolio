@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MarynaSalatska/portfolio/static/css/main.7acaea2f.css",
+    "main.js": "/MarynaSalatska/portfolio/static/js/main.07d3183d.js",
+    "index.html": "/MarynaSalatska/portfolio/index.html",
+    "main.7acaea2f.css.map": "/MarynaSalatska/portfolio/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/MarynaSalatska/portfolio/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
