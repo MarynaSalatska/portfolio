@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/MarynaSalatska/portfolio/static/css/main.7acaea2f.css",
-    "main.js": "/MarynaSalatska/portfolio/static/js/main.07d3183d.js",
+    "main.css": "/MarynaSalatska/portfolio/static/css/main.4dcaca3f.css",
+    "main.js": "/MarynaSalatska/portfolio/static/js/main.c02d4769.js",
+    "static/media/filmoteka.png": "/MarynaSalatska/portfolio/static/media/filmoteka.1630a9d98df8f963445e.png",
+    "static/media/webSite.png": "/MarynaSalatska/portfolio/static/media/webSite.75e674a0320b4185d729.png",
+    "static/media/iceCream.png": "/MarynaSalatska/portfolio/static/media/iceCream.395693c7139c93724f54.png",
+    "static/media/photo.jpeg": "/MarynaSalatska/portfolio/static/media/photo.214132b93007cc52df1c.jpeg",
     "index.html": "/MarynaSalatska/portfolio/index.html",
-    "main.7acaea2f.css.map": "/MarynaSalatska/portfolio/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/MarynaSalatska/portfolio/static/js/main.07d3183d.js.map"
+    "main.4dcaca3f.css.map": "/MarynaSalatska/portfolio/static/css/main.4dcaca3f.css.map",
+    "main.c02d4769.js.map": "/MarynaSalatska/portfolio/static/js/main.c02d4769.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.4dcaca3f.css",
+    "static/js/main.c02d4769.js"
   ]
 }
