@@ -32,7 +32,9 @@ const About = () => {
               Let's do something incredibly cool /
             </h1>
           </div>
-          <a href="https://drive.google.com/drive/u/0/folders/1J6CuuLUZ4KWN5Cdr2RpBBaLze3RtvTKx"></a>
+          <a href="https://drive.google.com/drive/u/0/folders/1J6CuuLUZ4KWN5Cdr2RpBBaLze3RtvTKx">
+            CV
+          </a>
         </div>
       </div>
     </section>
