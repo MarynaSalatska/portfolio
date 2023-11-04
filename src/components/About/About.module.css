@@ -3,12 +3,11 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-image: linear-gradient(
-      to bottom,
-      rgba(160, 161, 169, 0.4),
-      rgba(47, 48, 58, 0.4)
-    ),
-    url('../../img/hero.jpg');
-  /* background-image: url('../../img/hero.jpg'); */
+    to bottom,
+    rgba(160, 161, 169, 0.4),
+    rgba(47, 48, 58, 0.4)
+  );
+  /* url('../../img/hero.jpg'); */
 }
 
 .about_info {
@@ -16,9 +15,24 @@
 
   padding: 100px 0px 100px 0px;
 }
+.about_thumb {
+  /* height: 300px; */
+  width: 300px;
+
+  margin-left: 5%;
+}
+.about_photo {
+  border: 8px solid hsla(0, 21%, 90%, 0.717);
+  display: block;
+  height: 100%;
+  width: 100%;
+  border-radius: 3%;
+  object-fit: cover;
+}
 .about_text {
   font-family: 'Cormorant Garamond', serif;
   font-size: 28px;
+  padding-left: 80px;
 }
 
 .about_wrapper {
@@ -37,9 +51,8 @@
   font-family: monospace;
   white-space: nowrap;
   border-right: 2px solid white;
-  animation:
-    printed-text 5s steps(34),
-    flashin-border 0.75s step-start infinite;
+  animation: printed-text 5s steps(34), flashin-border 0.75s step-start infinite;
+  padding-left:80px;
 }
 
 @keyframes flashin-border {
@@ -61,3 +74,5 @@
     width: 0%;
   }
 }
+
+

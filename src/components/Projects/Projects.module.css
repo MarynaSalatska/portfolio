@@ -1,6 +1,6 @@
 .projects_container {
   margin: 0 auto;
-  margin-bottom: 20px;
+  padding-bottom: 20px;
   background-image: linear-gradient(
     to right,
     rgba(206, 207, 214, 0.4),

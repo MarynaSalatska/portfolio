@@ -6,7 +6,14 @@ const About = () => {
     <section className={css.about_container}>
       <h2>About Me</h2>
       <div className={css.about_info}>
-        <img src={require('img/photo.jpeg')} alt="My imag" width={250} />
+        <div className={css.about_thumb}>
+          <img
+            className={css.about_photo}
+            src={require('img/photo.jpeg')}
+            alt="My imag"
+          />
+        </div>
+
         <div>
           <p className={css.about_text}>Maryna Salatska</p>
           <p className={css.about_text}>
